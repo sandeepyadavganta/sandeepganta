@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sandeep Ganta</h1>
 <h3 align="center">I am Full Stack Developer</h3>
 
-<img align="right"alt="coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif"/>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeep-ganta&label=Profile%20views&color=0e75b6&style=flat" alt="sandeep-ganta" /> </p>
 
 - 🔭 I’m currently working on **Shopify.com**
